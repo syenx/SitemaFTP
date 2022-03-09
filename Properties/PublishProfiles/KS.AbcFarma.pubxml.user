@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <LastUsedBuildConfiguration>Debug</LastUsedBuildConfiguration>
+    <LastUsedPlatform>Any CPU</LastUsedPlatform>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Publicacao\ABCFarma</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Account/Login.aspx">
+      <publishTime>04/08/2019 14:22:38</publishTime>
+    </File>
+    <File Include="Account/Manage.aspx">
+      <publishTime>04/08/2019 14:22:38</publishTime>
+    </File>
+    <File Include="Account/OpenAuthProviders.ascx">
+      <publishTime>04/08/2019 14:22:38</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>04/08/2019 14:22:38</publishTime>
+    </File>
+    <File Include="Account/RegisterExternalLogin.aspx">
+      <publishTime>04/08/2019 14:22:38</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>04/08/2019 14:22:38</publishTime>
+    </File>
+    <File Include="AppControles/CtlAlert.ascx">
+      <publishTime>04/08/2019 14:40:34</publishTime>
+    </File>
+    <File Include="AppControles/CtlOption.ascx">
+      <publishTime>04/08/2019 14:40:52</publishTime>
+    </File>
+    <File Include="App_GlobalResources/Resource.resx">
+      <publishTime>04/08/2019 14:54:17</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>01/03/2019 10:16:46</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>04/01/2019 11:28:19</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.UI.Combined.dll">
+      <publishTime>04/01/2019 11:28:19</publishTime>
+    </File>
+    <File Include="bin/ClosedXML.dll">
+      <publishTime>06/22/2018 14:15:46</publishTime>
+    </File>
+    <File Include="bin/DatabaseAccessLib.dll">
+      <publishTime>01/03/2019 10:16:44</publishTime>
+    </File>
+    <File Include="bin/DocumentFormat.OpenXml.dll">
+      <publishTime>06/06/2017 22:59:20</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.AspNet.dll">
+      <publishTime>04/01/2019 11:28:21</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.Core.dll">
+      <publishTime>04/01/2019 11:28:20</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.Consumer.dll">
+      <publishTime>04/01/2019 11:28:20</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OAuth.dll">
+      <publishTime>04/01/2019 11:28:20</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.dll">
+      <publishTime>04/01/2019 11:28:20</publishTime>
+    </File>
+    <File Include="bin/DotNetOpenAuth.OpenId.RelyingParty.dll">
+      <publishTime>04/01/2019 11:28:21</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>04/01/2019 11:28:21</publishTime>
+    </File>
+    <File Include="bin/ExcelNumberFormat.dll">
+      <publishTime>11/23/2017 09:21:44</publishTime>
+    </File>
+    <File Include="bin/FastMember.Signed.dll">
+      <publishTime>03/06/2018 05:28:04</publishTime>
+    </File>
+    <File Include="bin/KS.ABCFarma.dll">
+      <publishTime>04/15/2019 15:45:33</publishTime>
+    </File>
+    <File Include="bin/KS.ABCFarma.pdb">
+      <publishTime>04/15/2019 15:45:33</publishTime>
+    </File>
+    <File Include="bin/KS.SimuladorPrecos.DataEntities.dll">
+      <publishTime>04/15/2019 15:45:31</publishTime>
+    </File>
+    <File Include="bin/KS.SimuladorPrecos.DataEntities.pdb">
+      <publishTime>04/15/2019 15:45:31</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Membership.OpenAuth.dll">
+      <publishTime>04/01/2019 11:28:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>04/01/2019 11:28:20</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>11/27/2018 18:07:34</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.pdb">
+      <publishTime>11/27/2018 17:59:10</publishTime>
+    </File>
+    <File Include="bin/OnConect.dll">
+      <publishTime>01/03/2019 10:16:45</publishTime>
+    </File>
+    <File Include="bin/OnConect.Dominio.dll">
+      <publishTime>01/03/2019 10:16:45</publishTime>
+    </File>
+    <File Include="bin/OnConect.Repositorio.Ado.dll">
+      <publishTime>01/03/2019 10:16:45</publishTime>
+    </File>
+    <File Include="bin/OnConect.Repositorio.Factory.dll">
+      <publishTime>01/03/2019 10:16:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Providers.dll">
+      <publishTime>04/01/2019 11:28:19</publishTime>
+    </File>
+    <File Include="Content/Site.css">
+      <publishTime>04/08/2019 14:22:38</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_222222_256x240.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_454545_256x240.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_888888_256x240.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery-ui.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.accordion.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.all.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.autocomplete.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.base.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.button.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.core.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.datepicker.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.dialog.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.progressbar.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.resizable.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.selectable.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.slider.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.tabs.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/jquery.ui.theme.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_flat_0_aaaaaa_40x100.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_flat_75_ffffff_40x100.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_55_fbf9ee_1x400.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_65_ffffff_1x400.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_75_dadada_1x400.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_75_e6e6e6_1x400.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_glass_95_fef1ec_1x400.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-bg_highlight-soft_75_cccccc_1x100.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_222222_256x240.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_2e83ff_256x240.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_454545_256x240.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_888888_256x240.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/images/ui-icons_cd0a0a_256x240.png">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery-ui.min.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.accordion.min.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.autocomplete.min.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.button.min.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.core.min.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.datepicker.min.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.dialog.min.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.progressbar.min.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.resizable.min.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.selectable.min.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.slider.min.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.tabs.min.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="Content/themes/base/minified/jquery.ui.theme.min.css">
+      <publishTime>04/08/2019 14:22:49</publishTime>
+    </File>
+    <File Include="DownloadPlanilhas.aspx">
+      <publishTime>04/15/2019 16:37:57</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>04/08/2019 14:22:38</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>04/08/2019 14:22:38</publishTime>
+    </File>
+    <File Include="Imagens/AlertaErro.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/Calendar.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/check.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/Colapse.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/Conquista.jpg">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/denied.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/exclamation.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/Expand.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/Fechar.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/find.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/Icone.ico">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/IconeHomem.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/IconeMulher.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/Image.ico">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/LabelGreen.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/LabelOrange.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/LabelRed.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/Loading.gif">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/logo-acessar_web.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/Logo-oncosales-login.jpg">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/logo-oncosales-topo1.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/Onconect2.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/Oncoprod_Logo.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/Oncoprod_monocromatica.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/operador.jpg">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/question.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/SemImagem_.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/SetaBaixo.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/SetaCima.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/trash.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Imagens/_warning.png">
+      <publishTime>04/08/2019 14:29:22</publishTime>
+    </File>
+    <File Include="Images/accent.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/bullet.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/heroAccent.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/logo-oncosales-topo1.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/Oncoprod_monocromatica.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/orderedList0.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/orderedList1.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/orderedList2.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/orderedList3.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/orderedList4.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/orderedList5.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/orderedList6.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/orderedList7.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/orderedList8.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Images/orderedList9.png">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="LoginAbcFarma.aspx">
+      <publishTime>04/08/2019 14:25:37</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>04/08/2019 14:49:02</publishTime>
+    </File>
+    <File Include="Scripts/bootstrap.min.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/jquery-1.7.1.min.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/jquery-3.3.1.slim.min.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.8.20.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/jquery-ui-1.8.20.min.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/jquery.min.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/KSSimuladorPrecosScripts.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/modernizr-2.5.3.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/popper.min.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/DetailsView.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Focus.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/GridView.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/Menu.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MenuStandards.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/SmartNav.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/TreeView.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebForms.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebParts.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/WebForms/WebUIValidation.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Scripts/_references.js">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>04/08/2019 18:01:57</publishTime>
+    </File>
+    <File Include="Styles/bootstrap.css">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Styles/bootstrap.min.css">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Styles/Style.css">
+      <publishTime>04/08/2019 14:29:26</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>04/15/2019 16:42:26</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
